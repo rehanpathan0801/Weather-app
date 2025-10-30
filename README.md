@@ -43,7 +43,7 @@ cd weather-app
 ### 3️⃣ Open the app
 Simply open the index.html file in your browser.
 
-### ⚙️ API Setup (Optional for editing)
+### ⚙️ API Setup 
 
 If you want to use your own API key:
 1. Go to OpenWeatherMap
